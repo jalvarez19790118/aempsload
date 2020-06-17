@@ -1,0 +1,14 @@
+{
+    "name": "jalvarez/aemps",
+    "authors": [
+        {
+            "name": "jalvarez19790118",
+            "email": "45544554+jalvarez19790118@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "katzgrau/klogger": "dev-master",
+        "php-curl-class/php-curl-class": "^8.8",
+        "simple-crud/simple-crud": "^7.4"
+    }
+}
